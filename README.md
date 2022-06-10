@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá sou Ryan</h1>
-<p align="center">Oi Meu nome é Erik Ryan Garcia de Melo, atualmente estou graduando em Engenharia de software no <a href="https://www.somosicev.com/" target="_blank">instituto de ensino superior iCev</a>. Aqui você encontrará alguns projetos pessoais e acadêmicos. #LetsCode</p>
+<p align="center">Oi Meu nome é Erik Ryan Garcia de Melo, atualmente estou graduando em Engenharia de software no <a href="https://www.somosicev.com/" target="_blank" rel="noreferrer">instituto de ensino superior iCev</a>. Aqui você encontrará alguns projetos pessoais e acadêmicos. #LetsCode</p>
 
 <div align="center">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=RyanMelo&no-bg=true&margin-w=1$&column=7&no-frame=true"/>
