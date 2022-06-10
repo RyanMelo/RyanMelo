@@ -2,7 +2,7 @@
 <p align="center">Oi Meu nome é Erik Ryan Garcia de Melo, atualmente estou graduando em Engenharia de software no instituto de ensino superior iCev. Aqui você encontrará alguns projetos pessoais e acadêmicos. #LetsCode</p>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=RyanMelo" alt="ryanmelo" /></a>
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=RyanMelo" alt="ryanmelo" /></a>
 </div>
 
 - 👨‍💻 gitHub [https://github.com/RyanMelo](https://github.com/RyanMelo)
