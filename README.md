@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá sou Ryan</h1>
-<p align="center">Oi Meu nome é Erik Ryan Garcia de Melo, atualmente estou graduando em Engenharia de software no instituto de ensino superior iCev. Aqui você encontrará alguns projetos pessoais e acadêmicos. #LetsCode</p>
+<p align="center">Oi Meu nome é Erik Ryan Garcia de Melo, atualmente estou graduando em Engenharia de software no instituto de ensino superior iCev. Aqui você encontrará alguns projetos pessoais e acadêmicos.</p>
 
 <a href="#">
   <div align="center">
