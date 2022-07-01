@@ -3,19 +3,9 @@
 <h3 align="left">👋 Olá sou Ryan</h3>
 <p align="left">Oi Meu nome é Erik Ryan Garcia de Melo, atualmente estou graduando em Engenharia de software no instituto de ensino superior iCev. Aqui você encontrará alguns projetos pessoais e acadêmicos.</p>
 
-<a href="#">
-  <div align="left">
-    <img height="120em" src="https://github-profile-trophy.vercel.app/?username=RyanMelo&no-bg=true&margin-w=1$&column=7&no-frame=true"/>
-  </div>
-</a>
-
-#
-
 <a href="https://www.instagram.com/ryan_melo74/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ryan-melo-190127188/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:ryangarciamelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
