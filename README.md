@@ -29,8 +29,8 @@
 
 <div align="left">
   <a href="https://github.com/RyanMelo">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanMelo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMelo&layout=compact&langs_count=6&theme=github_dark"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMelo&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
