@@ -18,14 +18,14 @@
 </div> -->
 
 #
-
+<!-- 
 <div style="display: inline_block"><br>  
   Outras:
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
 
-#
+# -->
 
 <div align="left">
   <a href="https://github.com/RyanMelo">
